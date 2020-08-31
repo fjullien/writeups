@@ -1,2 +1,1 @@
-# writeups
-CTF writeups
+**Some writeups of challenges I solved**
